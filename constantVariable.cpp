@@ -9,7 +9,6 @@ int main(){
   average= 22.30;
   cout <<age << endl << average <<endl << sex << endl << isit;
 
-
     return 0;
 }
  
